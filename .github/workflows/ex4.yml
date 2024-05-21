@@ -4,6 +4,6 @@ on:
 
 jobs:
     call-workflow-ex4-in-another-repo:
-        uses: octo-org/20240521/.github/workflows/ex4.yml
+        uses: octo-org/20240521/.github/workflows/ex4.yml@main
         with: 
             nodeversion: 15
