@@ -7,5 +7,3 @@ jobs:
         uses: octo-org/20240521/.github/workflows/ex4.yml
         with: 
             nodeversion: 15
-
->>>>>>> 3cfa93ad51b64f9c8a51b7fd562d6f84c6df6168
