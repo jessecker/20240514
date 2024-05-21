@@ -6,4 +6,4 @@ jobs:
     call-workflow-ex4-in-another-repo:
         uses: jessecker/20240621/.github/workflows/ex4.yml@main
         with: 
-            nodeversion: 15
+            nodeversion: lts/*
